@@ -1,8 +1,7 @@
 Python HelpSpot API
 -------------------
 
-A Python module for talking to [HelpSpot](http://www.userscape.com/products/helpspot/) via its [Web Services API]
-(https://support.helpspot.com/index.php?pg=kb.chapter&id=28).
+A Python module for talking to [HelpSpot](http://www.userscape.com/products/helpspot/) via its [Web Services API](https://support.helpspot.com/index.php?pg=kb.chapter&id=28).
 
 For usage, see the docstring in the helpspot/api.py file.
 
