@@ -1,10 +1,10 @@
 """
 Python HelpSpot interface
 A semi-bare shell of a HelpSpot API.
-Forked from John P. Speno by:
-Will Greene
-2019
-greenew.k@gmail.com
+John P. Speno
+Copyright 2010
+Inspired by Python Twitter Tools
+http://mike.verdone.ca/twitter/
 
 Usage:
 Create a HelpSpot object then call methods on it. Any method you call on
